@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Ирина Ковальчук](https://up.htmlacademy.ru/adaptive/17/user/673735).
-* Наставник: [Александр Уразаев](https://htmlacademy.ru/profile/urazaev).
+* Студент: Chackmool.
+* Наставник: Ellianta.
 
 ---
 
